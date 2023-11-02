@@ -1,2 +1,1 @@
-# notesapp-bk
-Notes App API - simple CRUD
+# Notes App API - simple CRUD
